@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>Joy of Computing Using Python :<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-3q5&theme=dark" alt="siddhantchauhan" /></p></p>
+<p>Joy of Computing Using Python : <a href="https://drive.google.com/file/d/1VA5Q4xVSk_aWgCULW3SSdak1IY56lHvs/view?usp=sharing"> CLICK HERE </a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
