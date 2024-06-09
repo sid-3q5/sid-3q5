@@ -20,6 +20,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p>Joy of Computing Using Python :<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-3q5&theme=dark" alt="siddhantchauhan" /></p></p>
+
+
+<h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid-3q5&show_icons=true&locale=en&layout=compact&theme=dark" alt="siddhantchauhan" /></p>
 
