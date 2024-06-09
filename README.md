@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Certifications :</h3>
-<p>Joy of Computing Using Python - IIT Madras, NPTEL : <a href="https://drive.google.com/file/d/1VA5Q4xVSk_aWgCULW3SSdak1IY56lHvs/view?usp=sharing"> CLICK HERE </a></p>
+<p>Joy of Computing Using Python - IIT Madras, NPTEL : <a href="https://drive.google.com/file/d/1VA5Q4xVSk_aWgCULW3SSdak1IY56lHvs/view?usp=sharing" target="_blank"> CLICK HERE </a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
