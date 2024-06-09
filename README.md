@@ -3,13 +3,11 @@
 <h3 align="center">B.Tech - IT Gradute</h3>
 <h4 align="center">Open to Work</h4>
 
-- 🔭 I’m currently working on **Back-end, Cloud, Machine Learning & Deep Learning**
+- 🔭 I’m currently working on **Back-end, Machine Learning & Deep Learning**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Python Projects**
-
-- 👀 Check out my LinkedIn profile to see my work experience, certifications, events, and competition experience! 
 
 - 💬 I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
