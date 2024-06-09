@@ -19,8 +19,8 @@
 <a href= "https://github.com/sid-3q5"><img align="center" src="https://user-images.githubusercontent.com/87655422/235964799-d06da77f-9cc9-4ce5-8b50-73e5dfc98b20.png" alt="siddhantchauhan" height="30" width="40" /></a> [Github.com]([https://github.com/akshupande](https://github.com/sid-3q5))
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p>Joy of Computing Using Python : <a href="https://drive.google.com/file/d/1VA5Q4xVSk_aWgCULW3SSdak1IY56lHvs/view?usp=sharing"> CLICK HERE </a></p>
+<h3 align="left">Certifications :</h3>
+<p>Joy of Computing Using Python - IIT Madras, NPTEL : <a href="https://drive.google.com/file/d/1VA5Q4xVSk_aWgCULW3SSdak1IY56lHvs/view?usp=sharing"> CLICK HERE </a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
